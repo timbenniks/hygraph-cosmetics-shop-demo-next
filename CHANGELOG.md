@@ -1,5 +1,18 @@
 # hygraph-cosmetics-shop-demo-next
 
+## 2.3.0
+
+### Minor Changes
+
+- Menu builder in Next
+
+## 2.2.0
+
+### Minor Changes
+
+- Localization efforts
+- 0b36cff: Readme updates
+
 ## 2.1.0
 
 ### Minor Changes
